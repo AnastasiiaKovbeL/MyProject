@@ -113,7 +113,8 @@ ul {
   color: var(--color-brand-light);
 }
 
-/* text */
+/* about us (main) */
+
 .aboutus-section {
   font-size: 22px;
   font-weight: 400;
@@ -125,3 +126,9 @@ ul {
   font-weight: 600;
   line-height: 1.7;
 }
+
+/* advantages section */
+
+/* services-section */
+
+/* contact-section */
